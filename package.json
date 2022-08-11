@@ -1,0 +1,19 @@
+{
+  "name": "navrbar-using-node",
+  "version": "1.0.0",
+  "description": "Deploying navbar application using node js. This is pure node. It only uses http module. An indicator on how express cuts the code as we don't need to import all the links that are in an html file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srishtiparti/Navrbar-using-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srishtiparti/Navrbar-using-node/issues"
+  },
+  "homepage": "https://github.com/srishtiparti/Navrbar-using-node#readme"
+}
